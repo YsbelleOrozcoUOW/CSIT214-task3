@@ -5,3 +5,5 @@
 This is the GitHub project for Task 3.
 
 I am learning how to use Git and GitHub, including repositories, commits, and branches.
+
+This change was made in a new branch called readme-edits.
